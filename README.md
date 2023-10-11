@@ -1,6 +1,6 @@
   # Hi 👋
-# Data Scientist || Python developer || Machine Learning Engineer || AI developer || R statistics || Data cleaning 
-👨🏻‍💻 Prakash Suthar
+# Data Scientist || # Python developer || # Machine Learning Engineer || # AI developer || # R statistics || # Data cleaning 
+# 👨🏻‍💻 Prakash Suthar
 
 
 Throughout my professional journey as a Data Scientist, I have fine-tuned my skills in designing and implementing machine learning models, conducting statistical analyses, and deriving actionable insights from data. My ability to troubleshoot and address challenges allows me to deliver high-quality solutions that consistently surpass expectations.
@@ -23,12 +23,12 @@ Email Me: prakashsuthar90640@gmail.com
 💞️ Love to read new Tech blogs on medium. 
 
 
-<!---
-⚙️ Languages and Tools
-Programming Languages
-django flask git kafka matlab opencv pandas python pytorch scikit_learn seaborn selenium tensorflow keras huggingface gradio Rstudio colab stable-diffusion Dalle midjourney 
 
-📊 Statistics
+# ⚙️ Languages and Tools
+Programming Languages
+# django # flask # git # kafka # matlab # opencv # pandas # python # pytorch # scikit_learn # seaborn # selenium # tensorflow # keras # huggingface # gradio # Rstudio # colab # stable-diffusion # Dalle # # # # # # midjourney 
+<!---
+# 📊 Statistics
 
 
 Khaled Badran's GitHub Stats
@@ -37,7 +37,7 @@ GitHub Streak
 
 Most Used Languages
 
-
+<!---
 Prakash-Suthar/Prakash-Suthar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
