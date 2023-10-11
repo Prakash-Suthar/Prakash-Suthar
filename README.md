@@ -1,6 +1,5 @@
-
-                                        <h1> Hi 👋 </h1>
-Data Scientist || Python developer || Machine Learning Engineer || AI developer || R statistics || Data cleaning 
+  # Hi 👋
+# Data Scientist || Python developer || Machine Learning Engineer || AI developer || R statistics || Data cleaning 
 👨🏻‍💻 Prakash Suthar
 
 
