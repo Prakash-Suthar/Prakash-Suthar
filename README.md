@@ -26,7 +26,7 @@ Email Me: prakashsuthar90640@gmail.com
 
 # ⚙️ Languages and Tools
 Programming Languages
-# django # flask # git # kafka # matlab # opencv # pandas # python # pytorch # scikit_learn # seaborn # selenium # tensorflow # keras # huggingface # gradio # Rstudio # colab # stable-diffusion # Dalle # # # # # # midjourney 
+# django flask  git  kafka  matlab  opencv  pandas  python  pytorch scikit_learn  seaborn  selenium  tensorflow  keras  huggingface  gradio  Rstudio  colab  stable-diffusion  Dalle midjourney 
 <!---
 # 📊 Statistics
 
