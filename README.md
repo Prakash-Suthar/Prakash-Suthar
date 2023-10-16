@@ -22,7 +22,7 @@ Email Me: prakashsuthar90640@gmail.com
 
 💞️ Love to read new Tech blogs on medium. 
 
-![Open-Cv](https://opencv.org/)
+![Open-Cv]([https://opencv.org/](https://opencv1.b-cdn.net/wp-content/uploads/2022/05/logo.png))
 
 
 # ⚙️ Languages and Tools
