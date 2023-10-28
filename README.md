@@ -29,13 +29,14 @@ Email Me: prakashsuthar90640@gmail.com
 Programming Languages
 # django flask  git  kafka  matlab  opencv  pandas  python  pytorch scikit_learn  seaborn  selenium  tensorflow  keras  huggingface  gradio  Rstudio  colab  stable-diffusion  Dalle midjourney 
 
+# 📊 Statistics
+
+
 [![Prakash’s github stats](https://github-readme-stats.vercel.app/api?username=Prakash-Suthar)](https://github.com/Prakash-Suthar)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=compact)](https://github.com/Prakash-Suthar)
 
 <!---
-# 📊 Statistics
-
 
 Khaled Badran's GitHub Stats
 
