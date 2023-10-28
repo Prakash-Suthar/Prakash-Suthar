@@ -35,6 +35,9 @@ Programming Languages
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakash-Suthar&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=compact)](https://github.com/Prakash-Suthar)
 
+
+![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakash-Suthar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <!---
 
 Khaled Badran's GitHub Stats
