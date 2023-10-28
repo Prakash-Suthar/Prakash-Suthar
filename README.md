@@ -37,7 +37,7 @@ Programming Languages
 
 # Programming Languages
 <a href="https://github.com/Prakash-Suthar">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Suthar&layout=compact&show_icons=true&langs_count=8" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Suthar&layout=compact&show_icons=true&langs_count=8card_width=400" />
 </a>
 
 
