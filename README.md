@@ -33,7 +33,7 @@ Programming Languages
 
 
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakash-Suthar&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=Donut&&show_icons=true&theme=tokyonight)](https://github.com/Prakash-Suthar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&hide_progress=true&&show_icons=true&theme=tokyonight)](https://github.com/Prakash-Suthar)
 
 
 
