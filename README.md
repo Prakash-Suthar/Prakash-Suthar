@@ -36,9 +36,12 @@ Programming Languages
 # Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=donut&&show_icons=true&theme=tokyonight)](https://github.com/Prakash-Suthar)
 
-# Wake-Time
-[![Prakash's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prakash-Suthar)](https://github.com/Prakash-Suthar/github-readme-stats)
-
+<a href="https://github.com/Prakash-Suthar">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prakash-Suthar" />
+</a>
+<a href="https://github.com/Prakash-Suthar">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Suthar&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!---
