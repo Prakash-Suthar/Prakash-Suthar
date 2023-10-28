@@ -31,10 +31,13 @@ Programming Languages
 
 # 📊 Statistics
 
-
 ![Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prakash-Suthar&show_icons=true&theme=tokyonight)
+
+# Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=donut&&show_icons=true&theme=tokyonight)](https://github.com/Prakash-Suthar)
 
+# Wake-Time
+[![Prakash's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Prakash-Suthar)](https://github.com/Prakash-Suthar)
 
 
 <!---
