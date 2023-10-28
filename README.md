@@ -33,8 +33,9 @@ Programming Languages
 <a href="https://github.com/Prakash-Suthar">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Prakash-Suthar&show_icons=true&theme=tokyonight" />
 </a>
+
+
 # Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Suthar&layout=donut&&show_icons=true&theme=tokyonight)](https://github.com/Prakash-Suthar)
 <a href="https://github.com/Prakash-Suthar">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakash-Suthar&layout=compact&show_icons=true&langs_count=8&card_width=320" />
 </a>
