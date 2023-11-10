@@ -1,5 +1,5 @@
   # Hi 👋
-# Data Scientist || Python developer || Machine Learning Engineer || AI developer || R statistics || Data cleaning 
+# Data Scientist || Python developer || Machine Learning Engineer || AI developer || R statistics || Data cleaning || Data Visaulization
 # 👨🏻‍💻 Prakash Suthar
 
 
